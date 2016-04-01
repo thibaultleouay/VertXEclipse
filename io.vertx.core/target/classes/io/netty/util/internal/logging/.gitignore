@@ -1,0 +1,16 @@
+/AbstractInternalLogger$1.class
+/AbstractInternalLogger.class
+/CommonsLogger.class
+/CommonsLoggerFactory.class
+/FormattingTuple.class
+/InternalLogLevel.class
+/InternalLogger.class
+/InternalLoggerFactory.class
+/JdkLogger.class
+/JdkLoggerFactory.class
+/Log4JLogger.class
+/Log4JLoggerFactory.class
+/MessageFormatter.class
+/Slf4JLogger.class
+/Slf4JLoggerFactory$1.class
+/Slf4JLoggerFactory.class

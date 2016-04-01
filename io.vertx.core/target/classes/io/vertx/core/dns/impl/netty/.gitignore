@@ -1,0 +1,12 @@
+/DnsEntry.class
+/DnsHeader.class
+/DnsMessage.class
+/DnsQuery.class
+/DnsQueryEncoder.class
+/DnsQueryHeader.class
+/DnsQuestion.class
+/DnsResource.class
+/DnsResponse.class
+/DnsResponseCode.class
+/DnsResponseDecoder.class
+/DnsResponseHeader.class

@@ -1,0 +1,10 @@
+/com.fasterxml.jackson.core.JsonFactory
+/com.fasterxml.jackson.core.ObjectCodec
+/io.vertx.core.spi.BufferFactory
+/io.vertx.core.spi.FutureFactory
+/io.vertx.core.spi.PumpFactory
+/io.vertx.core.spi.VertxFactory
+/io.vertx.core.spi.WebSocketFrameFactory
+/io.vertx.core.spi.cluster.ClusterManager
+/io.vertx.core.spi.launcher.CommandFactory
+/org.apache.commons.logging.LogFactory

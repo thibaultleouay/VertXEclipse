@@ -1,0 +1,16 @@
+/BooleanMessageCodec.class
+/BufferMessageCodec.class
+/ByteArrayMessageCodec.class
+/ByteMessageCodec.class
+/CharMessageCodec.class
+/DoubleMessageCodec.class
+/FloatMessageCodec.class
+/IntMessageCodec.class
+/JsonArrayMessageCodec.class
+/JsonObjectMessageCodec.class
+/LongMessageCodec.class
+/NullMessageCodec.class
+/PingMessageCodec.class
+/ReplyExceptionMessageCodec.class
+/ShortMessageCodec.class
+/StringMessageCodec.class

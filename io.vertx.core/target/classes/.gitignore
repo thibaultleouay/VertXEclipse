@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/about.html
+/build.properties
+/codegen.json
+/default-cluster.xml
+/pom.xml
+/vertx-version.txt

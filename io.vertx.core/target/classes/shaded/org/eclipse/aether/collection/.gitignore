@@ -1,0 +1,13 @@
+/CollectRequest.class
+/CollectResult.class
+/DependencyCollectionContext.class
+/DependencyCollectionException.class
+/DependencyGraphTransformationContext.class
+/DependencyGraphTransformer.class
+/DependencyManagement.class
+/DependencyManager.class
+/DependencySelector.class
+/DependencyTraverser.class
+/UnsolvableVersionConflictException.class
+/VersionFilter$VersionFilterContext.class
+/VersionFilter.class

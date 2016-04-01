@@ -1,0 +1,16 @@
+/BufferRecycler.class
+/ByteArrayBuilder.class
+/DefaultIndenter.class
+/DefaultPrettyPrinter$FixedSpaceIndenter.class
+/DefaultPrettyPrinter$Indenter.class
+/DefaultPrettyPrinter$Lf2SpacesIndenter.class
+/DefaultPrettyPrinter$NopIndenter.class
+/DefaultPrettyPrinter.class
+/Instantiatable.class
+/InternCache.class
+/JsonGeneratorDelegate.class
+/JsonParserDelegate.class
+/JsonParserSequence.class
+/MinimalPrettyPrinter.class
+/TextBuffer.class
+/VersionUtil.class

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="io.vertx.core.feature">
+      <category name="io.vertx.core.feature.id"/>
+   </feature>
+   <category-def name="io.vertx.core.feature.id" label="VertX Eclipse Integration">
+      <description>VertX Eclipse Integration</description>
+   </category-def>
+</site>

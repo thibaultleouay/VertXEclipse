@@ -1,0 +1,5 @@
+/DisallowIdentityContentLengthStrategy.class
+/EntityDeserializer.class
+/EntitySerializer.class
+/LaxContentLengthStrategy.class
+/StrictContentLengthStrategy.class

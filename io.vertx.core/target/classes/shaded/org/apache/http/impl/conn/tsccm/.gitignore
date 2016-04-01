@@ -1,0 +1,13 @@
+/AbstractConnPool.class
+/BasicPoolEntry.class
+/BasicPoolEntryRef.class
+/BasicPooledConnAdapter.class
+/ConnPoolByRoute$1.class
+/ConnPoolByRoute.class
+/PoolEntryRequest.class
+/RouteSpecificPool$1.class
+/RouteSpecificPool.class
+/ThreadSafeClientConnManager$1.class
+/ThreadSafeClientConnManager.class
+/WaitingThread.class
+/WaitingThreadAborter.class

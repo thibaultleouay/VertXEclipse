@@ -1,0 +1,9 @@
+/AbstractPatternDependencyFilter.class
+/AndDependencyFilter.class
+/DependencyFilterUtils.class
+/ExclusionsDependencyFilter.class
+/NotDependencyFilter.class
+/OrDependencyFilter.class
+/PatternExclusionsDependencyFilter.class
+/PatternInclusionsDependencyFilter.class
+/ScopeDependencyFilter.class

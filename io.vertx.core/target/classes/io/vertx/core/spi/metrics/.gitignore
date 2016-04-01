@@ -1,0 +1,9 @@
+/DatagramSocketMetrics.class
+/EventBusMetrics.class
+/HttpClientMetrics.class
+/HttpServerMetrics.class
+/Metrics.class
+/MetricsProvider.class
+/NetworkMetrics.class
+/TCPMetrics.class
+/VertxMetrics.class

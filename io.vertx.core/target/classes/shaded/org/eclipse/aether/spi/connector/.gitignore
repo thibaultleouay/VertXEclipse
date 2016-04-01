@@ -1,0 +1,9 @@
+/ArtifactDownload.class
+/ArtifactTransfer.class
+/ArtifactUpload.class
+/MetadataDownload.class
+/MetadataTransfer.class
+/MetadataUpload.class
+/RepositoryConnector.class
+/RepositoryConnectorFactory.class
+/Transfer.class
